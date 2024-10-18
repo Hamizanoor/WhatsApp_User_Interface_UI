@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:whatsappui/calls.dart';
 import 'package:whatsappui/status.dart';
 import 'package:whatsappui/widget/custome_listTile.dart';
 
-class WhatsappUi extends StatelessWidget {
-  const WhatsappUi({super.key});
+class Chat extends StatelessWidget {
+  const Chat({super.key});
 
   @override
   Widget build(BuildContext context) {
